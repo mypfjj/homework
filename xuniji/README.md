@@ -9,7 +9,7 @@
 
 &nbsp;
 &nbsp;
-&emsp;
+
 
 运行结果如下：
 
@@ -19,10 +19,14 @@
 ## 三、文件访问
 文件中存储index文件夹，上传该文件，在主机中通过浏览器访问该文件
 
+&nbsp;
+
 ![代码](https://upload-images.jianshu.io/upload_images/25330789-51786f64cae6b4b2.png?imageMogr2/auto-orient/strip|imageView2/2/w/554/format/webp)
+
 &nbsp;
 
 网页呈现结果如下：
+&nbsp;
 ![网页](https://upload-images.jianshu.io/upload_images/25330789-f14e70fd019fbb2f.png?imageMogr2/auto-orient/strip|imageView2/2/w/554/format/webp)
 
 ## 四、阿里云实验
@@ -31,10 +35,12 @@
 &nbsp;
 
 网页呈现效果：
+&nbsp;
 ![效果](https://upload-images.jianshu.io/upload_images/25330789-1042c4e606b12448.png?imageMogr2/auto-orient/strip|imageView2/2/w/453/format/webp)
 &nbsp;
 
 反馈内容：
+&nbsp;
 
 ![内容](https://upload-images.jianshu.io/upload_images/25330789-504e46f28941365f.png?imageMogr2/auto-orient/strip|imageView2/2/w/545/format/webp)
 
