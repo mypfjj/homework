@@ -5,7 +5,7 @@
 
 ## 二、在ubuntu中用ifconfig命令查看虚拟机主机地址，并开通http服务
 
-![ifconfig](https://upload-images.jianshu.io/upload_images/25330789-9ca65ac4efffd2ad.png?imageMogr2/auto-orient/strip|imageView2/2/w/554/format/webp “网页访问结果”)
+![ifconfig](https://upload-images.jianshu.io/upload_images/25330789-9ca65ac4efffd2ad.png?imageMogr2/auto-orient/strip|imageView2/2/w/554/format/webp)
 
 &nbsp;
 &nbsp;
